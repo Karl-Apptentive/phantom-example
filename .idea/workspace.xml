@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d41da576-3cf8-42c0-93fe-1fd34950f9a6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/example/cassandra/tables/Database.scala" afterPath="$PROJECT_DIR$/src/main/scala/example/cassandra/tables/Database.scala" />
-      <change beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/Example$.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/Example$.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/Example$delayedInit$body.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/Example$delayedInit$body.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/tables/Database.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/tables/Database.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase$$anon$1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase$$anon$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase$$anon$2.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase$$anon$2.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase$anon$macro$1$1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase$anon$macro$1$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase$anon$macro$6$1.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase$anon$macro$6$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase.class" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase.class" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/phantom-example_2.12-0.1.jar" afterPath="$PROJECT_DIR$/target/scala-2.12/phantom-example_2.12-0.1.jar" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -91,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Database.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Database.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/example/cassandra/tables/Database.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
@@ -107,10 +91,20 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/example/cassandra/Example.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
               <folding>
                 <element signature="e#27#65#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -229,7 +223,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="phantom-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phantom-example" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="AndroidView" />
@@ -246,6 +250,11 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -430,7 +439,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1967" y="-4" width="1873" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -445,7 +453,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31935483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25232622" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25232622" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -731,16 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/example/cassandra/Example.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <element signature="e#27#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/example/cassandra/tables/Database.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -748,6 +746,24 @@
           <folding>
             <element signature="e#42#77#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/cassandra/Example.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#27#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

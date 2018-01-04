@@ -22,5 +22,34 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-simple:1.7.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.outworkers:phantom-jdk8_2.12:2.18.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-transport:4.0.47.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-handler:4.0.47.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-common:4.0.47.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-codec:4.0.47.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.netty:netty-buffer:4.0.47.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.dropwizard.metrics:metrics-core:3.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.outworkers:phantom-dsl_2.12:2.18.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.outworkers:phantom-connectors_2.12:2.18.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.datastax.cassandra:cassandra-driver-core:3.3.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.chuusai:shapeless_2.12:2.3.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.jnr:jffi:1.2.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.jnr:jffi:1.2.10:native:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.jnr:jnr-constants:0.9.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.jnr:jnr-ffi:2.0.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.jnr:jnr-posix:3.0.27:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.jnr:jnr-x86asm:1.0.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.guava:guava:19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: joda-time:joda-time:2.9.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.joda:joda-convert:1.8.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-analysis:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-commons:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-tree:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm-util:5.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:log4j-over-slf4j:1.7.25:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:1.7.25:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:macro-compat_2.12:1.1.1:jar" level="project" />
   </component>
 </module>

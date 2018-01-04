@@ -1,0 +1,9 @@
+compile
+compile*
+compile
+update
+compile
+run
+project phantom-example
+run
+compile

@@ -2,28 +2,54 @@
 [0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
 [0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/data/github/phantom-example/src/main/scala/example/cassandra/connector/package.scala, /data/github/phantom-example/src/main/scala/example/cassandra/Example.scala, /data/github/phantom-example/src/main/scala/example/cassandra/tables/UserSchema.scala, /data/github/phantom-example/src/main/scala/example/cassandra/tables/Database.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/data/github/phantom-example/src/main/scala/example/cassandra/Example.scala, /data/github/phantom-example/src/main/scala/example/cassandra/tables/Database.scala)[0m
 [0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(example.cassandra.tables.ExampleDatabase, example.cassandra.tables.UserSchema.lastName, example.cassandra.tables.UserSchema.id, example.cassandra.tables.UserSchema, example.cassandra.connector.package, example.cassandra.tables.UserSchema.firstName, example.cassandra.tables.ExampleDatabase.userModel, example.cassandra.tables.UserSchema.dateOfBirth, example.cassandra.Example, example.cassandra.tables.Database)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(example.cassandra.Example, example.cassandra.tables.ExampleDatabase.userModel, example.cassandra.tables.ExampleDatabase, example.cassandra.tables.Database)[0m
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(example.cassandra.tables.ExampleDatabase, example.cassandra.tables.UserSchema.lastName, example.cassandra.tables.UserSchema.id, example.cassandra.tables.UserSchema, example.cassandra.connector.package, example.cassandra.tables.UserSchema.firstName, example.cassandra.tables.ExampleDatabase.userModel, example.cassandra.tables.UserSchema.dateOfBirth, example.cassandra.Example, example.cassandra.tables.Database)[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/data/github/phantom-example/src/main/scala/example/cassandra/connector/package.scala, /data/github/phantom-example/src/main/scala/example/cassandra/Example.scala, /data/github/phantom-example/src/main/scala/example/cassandra/tables/UserSchema.scala, /data/github/phantom-example/src/main/scala/example/cassandra/tables/Database.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated package objects: Set(example.cassandra.connector.package)[0m
-[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 5 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
-[0m[[0m[0minfo[0m] [0m[0mCompiling 5 Scala sources to /data/github/phantom-example/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(example.cassandra.Example, example.cassandra.tables.ExampleDatabase.userModel, example.cassandra.tables.ExampleDatabase, example.cassandra.tables.Database)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/data/github/phantom-example/src/main/scala/example/cassandra/Example.scala, /data/github/phantom-example/src/main/scala/example/cassandra/tables/Database.scala)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Scala sources to /data/github/phantom-example/target/scala-2.12/classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.0.3:compile for Scala 2.12.4[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.0.3:compile for Scala 2.12.4[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 72b12aa for Scala compiler version 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 2600be87 for Scala compiler version 2.12.4[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/wiem/.sbt/boot/scala-2.12.4/lib/scala-library.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/data/github/phantom-example/target/scala-2.12/classes:/home/wiem/.ivy2/cache/com.outworkers/phantom-dsl_2.12/jars/phantom-dsl_2.12-2.18.0.jar:/home/wiem/.ivy2/cache/com.outworkers/phantom-connectors_2.12/jars/phantom-connectors_2.12-2.18.0.jar:/home/wiem/.ivy2/cache/org.slf4j/log4j-over-slf4j/jars/log4j-over-slf4j-1.7.25.jar:/home/wiem/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.25.jar:/home/wiem/.ivy2/cache/com.datastax.cassandra/cassandra-driver-core/jars/cassandra-driver-core-3.3.2.jar:/home/wiem/.ivy2/cache/io.netty/netty-handler/jars/netty-handler-4.0.47.Final.jar:/home/wiem/.ivy2/cache/io.netty/netty-buffer/jars/netty-buffer-4.0.47.Final.jar:/home/wiem/.ivy2/cache/io.netty/netty-common/jars/netty-common-4.0.47.Final.jar:/home/wiem/.ivy2/cache/io.netty/netty-transport/jars/netty-transport-4.0.47.Final.jar:/home/wiem/.ivy2/cache/io.netty/netty-codec/jars/netty-codec-4.0.47.Final.jar:/home/wiem/.ivy2/cache/com.google.guava/guava/bundles/guava-19.0.jar:/home/wiem/.ivy2/cache/io.dropwizard.metrics/metrics-core/bundles/metrics-core-3.2.2.jar:/home/wiem/.ivy2/cache/com.github.jnr/jnr-ffi/jars/jnr-ffi-2.0.7.jar:/home/wiem/.ivy2/cache/com.github.jnr/jffi/jars/jffi-1.2.10.jar:/home/wiem/.ivy2/cache/com.github.jnr/jffi/jars/jffi-1.2.10-native.jar:/home/wiem/.ivy2/cache/org.ow2.asm/asm/jars/asm-5.0.3.jar:/home/wiem/.ivy2/cache/org.ow2.asm/asm-commons/jars/asm-commons-5.0.3.jar:/home/wiem/.ivy2/cache/org.ow2.asm/asm-tree/jars/asm-tree-5.0.3.jar:/home/wiem/.ivy2/cache/org.ow2.asm/asm-analysis/jars/asm-analysis-5.0.3.jar:/home/wiem/.ivy2/cache/org.ow2.asm/asm-util/jars/asm-util-5.0.3.jar:/home/wiem/.ivy2/cache/com.github.jnr/jnr-x86asm/jars/jnr-x86asm-1.0.2.jar:/home/wiem/.ivy2/cache/com.github.jnr/jnr-posix/jars/jnr-posix-3.0.27.jar:/home/wiem/.ivy2/cache/com.github.jnr/jnr-constants/jars/jnr-constants-0.9.0.jar:/home/wiem/.ivy2/cache/org.typelevel/macro-compat_2.12/jars/macro-compat_2.12-1.1.1.jar:/home/wiem/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar:/home/wiem/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.9.jar:/home/wiem/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.8.1.jar:/home/wiem/.ivy2/cache/com.outworkers/phantom-jdk8_2.12/jars/phantom-jdk8_2.12-2.18.0.jar:/home/wiem/.ivy2/cache/org.slf4j/slf4j-simple/jars/slf4j-simple-1.7.5.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 2.596974878 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 1.365723598 s[0m
 [0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from example.cassandra.tables.ExampleDatabase...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(example.cassandra.tables.ExampleDatabase)[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding example.cassandra.tables.Database by example.cassandra.tables.ExampleDatabase[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(example.cassandra.tables.Database, example.cassandra.tables.ExampleDatabase)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following modified names cause invalidation of example.cassandra.Example: Set(UsedName(saveOrUpdateUser,[Default]))[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following modified names cause invalidation of example.cassandra.Example: Set(UsedName(saveOrUpdateUser,[Default]))[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(example.cassandra.tables.ExampleDatabase,ModifiedNames(changes = UsedName(saveOrUpdateUser,[Default]))) invalidates 3 classes due to The example.cassandra.tables.ExampleDatabase has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(saveOrUpdateUser,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(example.cassandra.tables.Database, example.cassandra.tables.ExampleDatabase)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(example.cassandra.Example)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from example.cassandra.tables.Database...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(example.cassandra.tables.Database)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(example.cassandra.tables.Database)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following modified names cause invalidation of example.cassandra.Example: Set(UsedName(saveOrUpdateUser,[Default]))[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(example.cassandra.tables.Database,ModifiedNames(changes = UsedName(saveOrUpdateUser,[Default]))) invalidates 2 classes due to The example.cassandra.tables.Database has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(saveOrUpdateUser,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(example.cassandra.tables.Database)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(example.cassandra.Example)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set(example.cassandra.Example)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(example.cassandra.Example)[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m

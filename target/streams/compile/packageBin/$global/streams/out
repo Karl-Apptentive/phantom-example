@@ -12,6 +12,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example/cassandra/tables/UserSchema$anon$macro$1$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/cassandra[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example/cassandra[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/cassandra/tables/ExampleDatabase$anon$macro$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase$anon$macro$1$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/cassandra/Example$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example/cassandra/Example$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/cassandra/tables/UserSchema$lastName$.class[0m
@@ -24,6 +26,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example/cassandra/Example.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/cassandra/entities[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example/cassandra/entities[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/cassandra/tables/ExampleDatabase$anon$macro$6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase$anon$macro$6$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/cassandra/tables/ExampleDatabase.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/cassandra/tables[0m
@@ -32,8 +36,12 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example/cassandra/tables/Database.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/cassandra/tables/ExampleDatabase$userModel$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase$userModel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/cassandra/tables/ExampleDatabase$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase$$anon$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/cassandra/tables/UserSchema$id$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example/cassandra/tables/UserSchema$id$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/cassandra/tables/ExampleDatabase$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example/cassandra/tables/ExampleDatabase$$anon$3.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /data/github/phantom-example/target/scala-2.12/classes/example[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example/cassandra/tables/UserSchema$dateOfBirth$.class[0m

@@ -8,3 +8,5 @@ project phantom-example
 run
 compile
 run
+compile
+update
